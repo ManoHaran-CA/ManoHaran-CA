@@ -21,7 +21,7 @@
 </div>
 
 👋 About Me
-Name: Mano Haran
+Name: ManoHaran
 
 Current Role:
   📈 Digital Marketing Team Lead
