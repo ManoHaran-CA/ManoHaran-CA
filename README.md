@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,100:06B6D4&text=MANO%20HARAN&fontSize=52&fontColor=FFFFFF&fontAlignY=37&desc=Digital%20Marketing%20%7C%20AI%20%7C%20Design%20%7C%20Development&descSize=17&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,100:06B6D4&text=MANOHARAN&fontSize=52&fontColor=FFFFFF&fontAlignY=37&desc=Digital%20Marketing%20%7C%20AI%20%7C%20Design%20%7C%20Development&descSize=17&descAlignY=58&animation=twinkling"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-👋 About Me
+👋 Hi
 Name: ManoHaran
 
 Current Role:
@@ -304,9 +304,9 @@ Data-driven decisions
 
 <a href="https://github.com/ManoHaran-CA"> <img src="https://img.shields.io/badge/GitHub-ManoHaran--CA-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/manoharan-ca-1015mm/"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="manoharanca15@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 </div>
 
